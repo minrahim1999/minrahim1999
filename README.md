@@ -1,5 +1,8 @@
+![MasterHead](https://raw.githubusercontent.com/minrahim1999/minrahim1999/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Muhaimin Rahim</h1>
 <h3 align="center">A passionate full-stack developer from Malaysia</h3>
+
+<img src="" align="right" alt="Coding" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minrahim1999&label=Profile%20views&color=0e75b6&style=flat" alt="minrahim1999" /> </p>
 
