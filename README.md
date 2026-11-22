@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Rust, local LLM runtimes and multi-agent pipelines**
 - 💬 Ask me about **Laravel, PHP, JavaScript/TypeScript and AI agent harnesses**
 - 📫 How to reach me **minrahim1999@gmail.com**
-- 🌐 Portfolio **[www.minrahim.com](https://www.minrahim.com)**
+- 🌐 Portfolio **[minrahim1999.github.io](https://minrahim1999.github.io)**
 - 🏢 I work at **LCP Buildsoft Technology** · Selangor, Malaysia
 - ⚡ Fun fact **I'm Mystery**
 
